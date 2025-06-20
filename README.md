@@ -15,7 +15,7 @@ If you are developing a production application, we recommend using TypeScript wi
 Git commands:
 git status ///
 git init ///
-git add. ///
+git add . ///
 git commit -m"hello" ///
 git remote add origin1 https://github.com/pawansethi2111/aj-weather-wise.git ///
 git push origin1 main ///
